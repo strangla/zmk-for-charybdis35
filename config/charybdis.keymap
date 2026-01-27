@@ -42,10 +42,10 @@
 
         layer_0 {
             bindings = <
-&kp X  &kp F  &kp D           &kp P    &kp Q            &kp J                 &kp O                  &kp U      &kp I    &lt 3 LS(RC(S))
-&kp B  &kp S  &kp T           &kp C    &kp Y            &kp M                 &kp H                  &kp A      &kp E    &kp RIGHT_GUI
-&kp Z  &kp V  &kp K           &kp G    &kp W            &kp N                 &kp L                  &kp COMMA  &kp DOT  &kp FSLH
-              &lt 2 LEFT_WIN  &lt 1 R  &mt LCTRL TAB    &mt RIGHT_ALT ESCAPE  &mt RIGHT_SHIFT SPACE
+&kp Q  &kp W  &kp E           &kp R            &kp T            &kp Y                 &kp U                  &kp I      &kp O    &lt 3 P
+&kp A  &kp S  &kp D           &kp F            &kp G            &kp H                 &kp J                  &kp K      &kp L    &kp RIGHT_GUI
+&kp Z  &kp X  &kp C           &kp V            &kp B            &kp N                 &kp M                  &kp COMMA  &kp DOT  &kp FSLH
+              &lt 2 LEFT_WIN  &lt 1 RS(RA(S))  &mt LCTRL TAB    &mt RIGHT_ALT ESCAPE  &mt RIGHT_SHIFT SPACE
             >;
         };
 
